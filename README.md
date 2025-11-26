@@ -1,4 +1,4 @@
-# 🎌 Animixplay - Open Source Anime Blog  
+# 🎌 Open Source Anime Blog Animixplay
 
 Welcome to the **Animixplay Open Source Anime Blog**, a community-driven project designed for anime fans who love sharing thoughts, reviews, and insights about Japanese animation. This repository provides the source code for a modern, lightweight, and customizable anime blog built with open web technologies.  
 Animixplay website: [animixplay](https://animixplay.fun)
